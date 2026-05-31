@@ -1,8 +1,8 @@
-//Base 100% Editable creditos a Naufrabot 
+//Base 100% Editable creditos a Ivelia Bot 
 
-//Página oficial naufrabot.com
+//"canal oficial: https:https://whatsapp.com/channel/0029Vb7dC1XHVvTag0IcuI3b
 
-//Sígueme en todas mis redes para estar informados con las novedades de la base 
+//Sígueme en todas mis redes para estar informados con las novedades de la BASE
 
 //Modulos
 const { default: makeWASocket,
